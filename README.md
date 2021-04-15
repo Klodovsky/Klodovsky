@@ -7,10 +7,10 @@
 
 <p align="center"> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Klodovskyy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Klodovskyy&theme=onedark)](https://github.com/klodovskyy/github-profile-trophy) </p>
 
 
-<p align="left"> <a href="https://twitter.com/klodovsky" target="blank"><img src="https://img.shields.io/twitter/follow/chandrikadeb7?logo=twitter&style=for-the-badge" alt="chandrikadeb7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/klodovsky" target="blank"><img src="https://img.shields.io/twitter/follow/klodovsky?logo=twitter&style=for-the-badge" alt="klodovsky" /></a> </p>
 
 - 🌱 I’m currently learning **AWS**
 
