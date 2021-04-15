@@ -186,7 +186,7 @@
     />
     <a href="https://www.json.org/" target="_blank">
     <img
-      src="  https://www.vectorlogo.zone/logos/json/json-ar21.svg"
+      src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"
       alt="json"
       width="40"
       height="40"
