@@ -227,6 +227,15 @@
       height="40"
     />
   </a>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
+      alt="TypeScript"
+      width="40"
+      height="40"
+    />
+  </a>
+
 
 
   <a href="https://www.npmjs.com/" target="_blank">
