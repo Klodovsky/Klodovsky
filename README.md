@@ -5,14 +5,14 @@
 
 ### Wanna stalk my website:question::point_right: [Click Here](https://khaled.benhassen.dev/):sparkles:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=klodovskyy&label=Profile%20views&color=0e75b6&style=flat" alt="Klodovskyy" /> </p>
+<p align="left"> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Klodovskyy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Klodovskyy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </p>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klodovskyy" alt="klodovskyy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/klodovsky" target="blank"><img src="https://img.shields.io/twitter/follow/chandrikadeb7?logo=twitter&style=for-the-badge" alt="chandrikadeb7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/klodovsky" target="blank"><img src="https://img.shields.io/twitter/follow/klodovsky?logo=twitter&style=for-the-badge" alt="klodovsky" /></a> </p>
 
 - 🌱 I’m currently learning **AWS**
 
@@ -27,8 +27,8 @@
 
 ### What are my featured projects:question::rocket:
 <code>[CODIUX](https://github.com/Klodovskyy/CODIUX)</code>:hourglass:     
-<code>[Kryptonite](https://github.com/Klodovskyy/Kryptonite)</code>:mask:  
-<code>[BoostZone](https://github.com/Klodovskyy/BoostZone)</code>:robot:     
+<code>[Kryptonite](https://github.com/Klodovskyy/Kryptonite)</code>:bitcoin:  
+<code>[BoostZone](https://github.com/Klodovskyy/BoostZone)</code>:help:     
 
 ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
