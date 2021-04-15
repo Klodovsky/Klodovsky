@@ -1,4 +1,4 @@
-## 👋 Hi Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## 👋 Hi Visitor <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">:eyes:
 
 <h1 align="center">I'm Khaled BEN HASSEN</h1>
 <h3 align="center">git commit -m "Hello, I'm a Software Engineer"</h3>
