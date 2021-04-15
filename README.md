@@ -217,10 +217,10 @@
       height="40"
     />
   </a>
-  <a href="https://kubernetes.io" target="_blank">
+  <a href="https://fr.nuxtjs.org/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-      alt="kubernetes"
+      src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
+      alt="nuxtjs"
       width="40"
       height="40"
     />
@@ -233,7 +233,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.redhat.com/fr" target="_blank">
+  <a href="https://www.redhat.com" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg"
       alt="opencv"
