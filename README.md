@@ -184,6 +184,14 @@
       width="40"
       height="40"
     />
+    <a href="https://www.json.org/" target="_blank">
+    <img
+      src="  https://www.vectorlogo.zone/logos/json/json-ar21.svg"
+      alt="json"
+      width="40"
+      height="40"
+    />
+
   </a>
   <a href="https://sass-lang.com/" target="_blank">
     <img
@@ -201,23 +209,23 @@
       height="40"
     />
   </a>
-  <a href="https://www.elastic.co/kibana" target="_blank">
+  <a href="https://nodejs.org/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"
-      alt="kibana"
+      src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"
+      alt="nodejs"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://kotlinlang.org" target="_blank">
+  <a href="https://code.visualstudio.com/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
-      alt="kotlin"
+      src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"
+      alt="vscode"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://fr.nuxtjs.org/" target="_blank">
+  <a href="https://nuxtjs.org/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
       alt="nuxtjs"
@@ -305,7 +313,7 @@
       height="40"
     />
   </a>
-  <a href="https://powerbi.microsoft.com/fr/" target="_blank">
+  <a href="https://powerbi.microsoft.com" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"
       alt="microsoft_powerbi"
