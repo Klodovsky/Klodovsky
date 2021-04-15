@@ -1,9 +1,9 @@
-## 👋 Hello there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">:eyes:
+## Hello there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">:eyes:
 
+<section>
 <h1 align="center">I'm Khaled BEN HASSEN</h1>
 <h3 align="center">git commit -m "Hello, I'm a Software Engineer"</h3>
-<br>
-<br>
+</section>
 
 ### Wanna stalk my website:question::point_right: [Click Here](https://khaled.benhassen.dev/):sparkles: (Coming soon)
 
