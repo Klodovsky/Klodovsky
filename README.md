@@ -86,6 +86,13 @@
       height="40"
     />
   </a>
+  <a href="https://wordpress.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
   <a href="https://www.djangoproject.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"
@@ -145,14 +152,8 @@
       height="40"
     />
   </a>
-  <a href="https://wordpress.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-    <a href="https://www.json.org/" target="_blank">
+  
+   <a href="https://www.json.org/" target="_blank">
       <img
         src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"
         alt="json"
