@@ -221,7 +221,7 @@
     </a>
        <a href="https://tailwindcss.com/" target="_blank">
       <img
-        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"
         alt="tailwindcss"
         width="40"
         height="40"
