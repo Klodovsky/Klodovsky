@@ -145,9 +145,9 @@
       height="40"
     />
   </a>
-  <a href="https://babeljs.io/" target="_blank">
+  <a href="https://wordpress.com/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
+      src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"
       alt="javascript"
       width="40"
       height="40"
@@ -253,7 +253,7 @@
         height="40"
       />
     </a>
-    <h2 align="left">Tools :</h2>
+    <h2 align="left">Tools and Environments :</h2>
     
    <a href="https://git-scm.com/" target="_blank">
       <img
