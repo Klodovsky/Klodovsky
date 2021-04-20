@@ -163,7 +163,7 @@
     </a>
   <a href="https://expressjs.com" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
+      src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
       alt="expressjs"
       width="40"
       height="40"
