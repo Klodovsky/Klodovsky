@@ -6,15 +6,15 @@
  <p> I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Templates Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</p>
 </section>
 
-### Wanna stalk my website:question::point_right: [Click Here](https://khaled.benhassen.dev/):sparkles: (Coming soon)
 
 <p align="center"> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Klodovskyy&theme=onedark)](https://github.com/klodovskyy/github-profile-trophy) </p>
 
 
-<p align="left"> <a href="https://twitter.com/klodovsky" target="blank"><img src="https://img.shields.io/twitter/follow/klodovsky?logo=twitter&style=for-the-badge" alt="klodovsky" /></a>
-<a href="https://www.linkedin.com/in/khaled-bhassan/" target="blank"><img src="https://img.shields.io/linkedin/follow/khaled-bhassan?logo=linkedin&style=for-the-badge" alt="klodovsky" /></a></p>
+<p align="left"> <a href="https://twitter.com/klodovsky" target="blank"><img src="https://img.shields.io/twitter/follow/klodovsky?logo=twitter&style=for-the-badge" alt="klodovsky" /></a> 
+ <br>
+</p>
 
 - 🌱 I’m currently learning **AWS**
 
