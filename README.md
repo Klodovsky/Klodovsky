@@ -13,7 +13,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Klodovskyy&theme=onedark)](https://github.com/klodovskyy/github-profile-trophy) </p>
 
 
-<p align="left"> <a href="https://twitter.com/klodovsky" target="blank"><img src="https://img.shields.io/twitter/follow/klodovsky?logo=twitter&style=for-the-badge" alt="klodovsky" /></a> </p>
+<p align="left"> <a href="https://twitter.com/klodovsky" target="blank"><img src="https://img.shields.io/twitter/follow/klodovsky?logo=twitter&style=for-the-badge" alt="klodovsky" /></a>
+<a href="https://www.linkedin.com/in/khaled-bhassan/" target="blank"><img src="https://img.shields.io/linkedin/follow/khaled-bhassan?logo=linkedin&style=for-the-badge" alt="klodovsky" /></a></p>
 
 - 🌱 I’m currently learning **AWS**
 
