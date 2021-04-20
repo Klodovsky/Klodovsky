@@ -136,6 +136,14 @@
       height="40"
     />
   </a>
+    <a href="https://nuxtjs.org/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
+      alt="nuxtjs"
+      width="40"
+      height="40"
+    />
+  </a>
     <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -200,23 +208,9 @@
       height="40"
     />
   </a>
-  <a href="https://www.npmjs.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"
-      alt="npmjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nuxtjs.org/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
-      alt="nuxtjs"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://webpack.js.org/" target="_blank">
+
+
+   <a href="https://webpack.js.org/" target="_blank">
       <img
         src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg"
         alt="webpack"
@@ -260,7 +254,14 @@
         height="40"
       />
     </a>
-
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"
+      alt="npmjs"
+      width="40"
+      height="40"
+    />
+  </a>
    <a href="https://graphql.org" target="_blank">
       <img
         src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
