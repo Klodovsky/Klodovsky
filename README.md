@@ -104,7 +104,7 @@
     </a>
     <a href="https://nodejs.org/" target="_blank">
       <img
-        src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"
+        src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
         alt="nodejs"
         width="40"
         height="40"
