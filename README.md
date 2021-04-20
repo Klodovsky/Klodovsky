@@ -1,8 +1,8 @@
 ## Hello there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">:eyes:
 
 <section>
-<h1 align="right">I'm Khaled BEN HASSEN</h1>
-<h3 align="right">git commit -m "Hello, I'm a Software Engineer"</h3>
+<h1 align="left">I'm Khaled BEN HASSEN</h1>
+<h3 align="left">git commit -m "Hello, I'm a Software Engineer"</h3>
  <p> I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Templates Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</p>
 </section>
 
