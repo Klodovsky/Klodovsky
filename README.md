@@ -50,6 +50,7 @@
 <a href="https://dev.to/klodovsky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Klodovsky" height="30" width="40" /></a>
 <a href="https://twitter.com/Klodovsky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Klodovsky" height="30" width="40" /></a>
 <a href="https://medium.com/@Klodovsky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@Klodovsky" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/khaled-bhassan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@Klodovsky" height="30" width="40" /></a>
 
 </p>
 
