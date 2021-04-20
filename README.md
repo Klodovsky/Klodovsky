@@ -343,6 +343,16 @@
   </a>
 </p>
 
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/Klodovskyy/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Klodovskyy/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Klodovskyy&show_icons=true&locale=en" alt="Klodovsky" /></p>
