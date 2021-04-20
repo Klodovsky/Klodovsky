@@ -219,6 +219,22 @@
         height="40"
       />
     </a>
+       <a href="https://tailwindcss.com/" target="_blank">
+      <img
+        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+        alt="tailwindcss"
+        width="40"
+        height="40"
+      />
+    </a>
+       <a href="https://jquery.com/" target="_blank">
+      <img
+        src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"
+        alt="jquery"
+        width="40"
+        height="40"
+      />
+    </a>
 
    <a href="https://www.w3schools.com/css/" target="_blank">
       <img
