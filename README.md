@@ -9,7 +9,7 @@
 
 <p align="center"> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Klodovskyy&theme=onedark)](https://github.com/klodovskyy/github-profile-trophy) </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Klodovsky&theme=onedark)](https://github.com/klodovsky/github-profile-trophy) </p>
 
 
 <p align="left"> <a href="https://twitter.com/klodovsky" target="blank"><img src="https://img.shields.io/twitter/follow/klodovsky?logo=twitter&style=for-the-badge" alt="klodovsky" /></a> 
@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Klodovskyy/](https://github.com/Klodovskyy/)
+- 👨‍💻 All of my projects are available at [https://github.com/Klodovsky](https://github.com/Klodovsky)
 
 - 📝 I occasionally write articles on [https://medium.com/@khaled.benhassen](https://medium.com/@khaled.benhassen)
 
@@ -28,9 +28,9 @@
 
 
 ### What are my featured projects:question::rocket:
-<code>[CODIUX](https://github.com/Klodovskyy/CODIUX)</code>     
-<code>[Kryptonite](https://github.com/Klodovskyy/Kryptonite)</code>  
-<code>[BoostZone](https://github.com/Klodovskyy/BoostZone)</code>    
+<code>[CODIUX](https://github.com/Klodovsky/CODIUX)</code>     
+<code>[Kryptonite](https://github.com/Klodovsky/Kryptonite)</code>  
+<code>[BoostZone](https://github.com/Klodovsky/BoostZone)</code>    
 
 
 
@@ -363,10 +363,10 @@
 
 ### 📊 Github Stats
 
-<a href='https://github.com/Klodovskyy/github-stats'>
+<a href='https://github.com/Klodovsky/github-stats'>
   
-![Stats Overview](https://raw.githubusercontent.com/Klodovskyy/github-stats/master/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Klodovskyy/github-stats/master/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/Klodovsky/github-stats/master/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Klodovsky/github-stats/master/generated/languages.svg)
 
 </a>
 
