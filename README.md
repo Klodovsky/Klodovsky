@@ -70,6 +70,14 @@
       height="40"
     />
   </a>
+    <a href="https://codeigniter.com/" target="_blank">
+    <img
+      src="https://github.com/detain/svg-logos/blob/master/svg/codeigniter.svg"
+      alt="codeigniter"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.scala-lang.org/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg"
