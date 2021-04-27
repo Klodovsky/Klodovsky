@@ -13,9 +13,9 @@
 
 
 <p align="left"> <a href="https://twitter.com/klodovsky" target="blank"><img src="https://img.shields.io/twitter/follow/klodovsky?logo=twitter&style=for-the-badge" alt="klodovsky" /></a> 
-[![Twitter: klodovsky](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/klodovsky)
-[![Linkedin: klodovsky](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klodovsky/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub klodovsky](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/klodovsky)
+[![Twitter: klodovsky](https://img.shields.io/twitter/follow/klodovsky?style=social)](https://twitter.com/klodovsky)
+[![Linkedin: klodovsky](https://img.shields.io/badge/-klodovsky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klodovsky/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub klodovsky](https://img.shields.io/github/followers/klodovsky?label=follow&style=social)](https://github.com/klodovsky)
  <br>
 </p>
 
