@@ -32,7 +32,8 @@
 ### What are my featured projects:question::rocket:
 <code>[CODIUX](https://github.com/Klodovsky/CODIUX)</code>     
 <code>[Kryptonite](https://github.com/Klodovsky/Kryptonite)</code>  
-<code>[BoostZone](https://github.com/Klodovsky/BoostZone)</code>    
+<code>[BoostZone](https://github.com/Klodovsky/BoostZone)</code>  
+<code>[HR-Hub](https://github.com/Klodovsky/HR-Hub)</code> 
 
 
 
