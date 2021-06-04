@@ -22,11 +22,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Klodovsky](https://github.com/Klodovsky)
 
-- 📝 I occasionally write articles on [https://medium.com/@khaled.benhassen](https://medium.com/@khaled.benhassen)
-
 - 💬 Ask me about **JS, PHP, Python**
 
-- 📫 How to reach me **Khaled.benhassen@polytechnicien.tn**
+- 📫 How to reach me **Khaled.benhassen[at]polytechnicien.tn**
 
 
 ### What are my featured projects:question::rocket:
