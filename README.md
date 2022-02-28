@@ -18,11 +18,13 @@
  <br>
 </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Klodovsky](https://github.com/Klodovsky)
 
-- 💬 Ask me about **JS, PHP, Python**
+- 👨‍💻 Check my current job contributions at [https://github.com/KhaledSMIT](https://github.com/KhaledSMIT)
+-
+- 💬 Ask me about **Javascript, PHP (Laravel), Vue.js**
 
 - 📫 How to reach me **Khaled.benhassen[at]polytechnicien.tn**
 
